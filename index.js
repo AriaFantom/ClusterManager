@@ -1,4 +1,4 @@
-//Sua index.
+//index.js | está index é apenas um exemplo para demonstrar como funciona.
 const Discord = require("discord.js"); 
 const client = new Discord.Client(); 
 const config = require("./config.json"); 
