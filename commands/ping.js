@@ -6,4 +6,4 @@ module.exports.run = async(client, message, args) => {
   \`⏰ Ping da API:\` \`${Math.round(
         client.ws.ping
       )}ms\``);
-  }
+  };
