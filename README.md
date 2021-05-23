@@ -1,4 +1,4 @@
-# ClusterManage
+# ClustersManage
 
 ## `1º` • Como usar:
 
